@@ -12,3 +12,4 @@ The magpies are numerous
 Hello what's your name?
 My name is nem Thu Duc.
 Please to meet you nem thu Duc
+Please to meet you too
